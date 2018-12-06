@@ -1,0 +1,12 @@
+# Mac os
+.DS_Store
+
+# Compressed
+*.zip
+*.rar
+*.tar
+*.gz
+*.7z
+
+# Other
+bin
